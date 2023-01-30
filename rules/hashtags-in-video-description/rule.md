@@ -5,9 +5,10 @@ uri: hashtags-in-video-description
 authors:
   - title: Adriana Tavares
     url: https://www.ssw.com.au/people/adriana-tavares
+  - title: Penny Walker
+    url: https://ssw.com.au/people/penny
 created: 2023-01-24T23:41:41.502Z
 guid: efe1b8b5-5d2a-4d32-9e75-667c524b2bfe
-
 ---
 
 YouTube has introduced hashtags to video descriptions, where videos are then grouped in hashtag pages. This optimises search results as you'll be able to search videos using hashtags, which can result in a higher engagement since you will have a wider range of users.
